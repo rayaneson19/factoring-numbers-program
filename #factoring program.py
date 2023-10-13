@@ -7,7 +7,7 @@ def is_prime(n: int) -> bool:
         if n % i == 0:
             return False
     return True
-print("""      This is a factoring programme that gives you the factor of the number you put in.
+print("""      This is a factoring program that gives you the factor of the number you put in.
       
       => you can quit by typing '0'.
 
